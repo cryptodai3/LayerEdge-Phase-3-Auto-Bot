@@ -259,7 +259,7 @@ async function main() {
     const margin = Math.max(screen.width - 80, 0);
     let art = "";
     if (screen.width >= threshold) {
-      art = cfonts.render('NT EXHAUST', {
+      art = cfonts.render('YetiDAO', {
         font: 'block',
         align: 'center',
         colors: ['cyan', 'magenta'],
