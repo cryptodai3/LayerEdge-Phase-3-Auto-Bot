@@ -44,7 +44,7 @@ npm install
 
 ### 2️⃣ Configure Your Keys
 ```bash
-nano keys.txt
+nano key.txt  
 ```
 *Format (one key per line):*  
 ```
@@ -54,7 +54,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 ### 3️⃣ (Optional) Add Proxies
 ```bash
-nano proxies.txt
+nano proxy.txt  
 ```
 *Supported formats:*  
 ```
